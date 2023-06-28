@@ -1,0 +1,5 @@
+{
+    "solidity.remappings": [
+        "@openzeppelin/=//media/itsansar/7C66936366931D48/shafay/Dapp/node_modules/@openzeppelin"
+    ]
+}
